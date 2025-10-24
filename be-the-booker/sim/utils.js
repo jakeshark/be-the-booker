@@ -1,2 +1,0 @@
-export function clamp(x, min, max){ return Math.max(min, Math.min(max, x)); }
-export function gaussian(x, mu, sigma){ const z = (x - mu) / (sigma || 1); const val = Math.exp(-0.5 * z * z); return (val * 20) - 10; }
