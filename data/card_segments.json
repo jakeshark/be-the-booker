@@ -1,0 +1,116 @@
+[
+  {
+    "id": "S1",
+    "type": "match",
+    "participants": [
+      "nova",
+      "rookie"
+    ],
+    "duration_min": 8,
+    "intent": "elevate",
+    "stipulation": "standard",
+    "risk_level": "low",
+    "placement_idx": 0,
+    "title_match": false,
+    "feud_id": null,
+    "interference": "none"
+  },
+  {
+    "id": "S2",
+    "type": "promo",
+    "participants": [
+      "midas"
+    ],
+    "duration_min": 6,
+    "intent": "advance_feud",
+    "placement_idx": 1,
+    "feud_id": "nova_vs_midas",
+    "notes": "Midas buries Nova; sets stakes."
+  },
+  {
+    "id": "S3",
+    "type": "angle",
+    "participants": [
+      "ace",
+      "brawler"
+    ],
+    "duration_min": 4,
+    "intent": "advance_feud",
+    "placement_idx": 2,
+    "feud_id": "ace_vs_brawler",
+    "notes": "Parking-lot pull-apart."
+  },
+  {
+    "id": "S4",
+    "type": "match",
+    "participants": [
+      "rookie",
+      "midas"
+    ],
+    "duration_min": 10,
+    "intent": "crowd_work",
+    "stipulation": "standard",
+    "risk_level": "low",
+    "placement_idx": 3,
+    "title_match": false,
+    "feud_id": "nova_vs_midas",
+    "interference": "possible"
+  },
+  {
+    "id": "S5",
+    "type": "promo",
+    "participants": [
+      "nova"
+    ],
+    "duration_min": 5,
+    "intent": "advance_feud",
+    "placement_idx": 4,
+    "feud_id": "nova_vs_midas",
+    "notes": "Babyface rebuttal challenge."
+  },
+  {
+    "id": "S6",
+    "type": "match",
+    "participants": [
+      "ace",
+      "brawler"
+    ],
+    "duration_min": 12,
+    "intent": "advance_feud",
+    "stipulation": "no_dq",
+    "risk_level": "med",
+    "placement_idx": 5,
+    "title_match": false,
+    "feud_id": "ace_vs_brawler",
+    "interference": "planned"
+  },
+  {
+    "id": "S7",
+    "type": "angle",
+    "participants": [
+      "midas",
+      "nova"
+    ],
+    "duration_min": 3,
+    "intent": "advance_feud",
+    "placement_idx": 6,
+    "feud_id": "nova_vs_midas",
+    "notes": "Contract signing scuffle."
+  },
+  {
+    "id": "S8",
+    "type": "match",
+    "participants": [
+      "nova",
+      "midas"
+    ],
+    "duration_min": 14,
+    "intent": "blowoff",
+    "stipulation": "cage",
+    "risk_level": "high",
+    "placement_idx": 7,
+    "title_match": true,
+    "feud_id": "nova_vs_midas",
+    "interference": "none"
+  }
+]

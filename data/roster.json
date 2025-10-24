@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ace",
+    "name": "Ace Atlas",
+    "alignment": "face",
+    "attributes": {
+      "workrate": 86,
+      "psychology": 78,
+      "charisma": 70,
+      "star_power": 68,
+      "selling": 82,
+      "stiffness": 35,
+      "safety": 80,
+      "mic_skill": 65,
+      "experience": 60
+    },
+    "style_vector": {
+      "brawler": 0.2,
+      "technical": 0.5,
+      "high_flyer": 0.2,
+      "power": 0.1,
+      "strong_style": 0.0,
+      "lucha": 0.0
+    },
+    "pop": 62,
+    "morale": 78,
+    "momentum": 10,
+    "conditioning": 84,
+    "traits": [
+      "professional",
+      "resilient"
+    ],
+    "chemistry_tags": [
+      "technical",
+      "respect"
+    ],
+    "injury_status": {
+      "status": "healthy",
+      "days_remaining": 0
+    },
+    "fatigue": 18,
+    "region_pop_mod": {
+      "Northeast": 6
+    }
+  },
+  {
+    "id": "brawler",
+    "name": "Brick Brawler",
+    "alignment": "heel",
+    "attributes": {
+      "workrate": 72,
+      "psychology": 74,
+      "charisma": 58,
+      "star_power": 64,
+      "selling": 60,
+      "stiffness": 80,
+      "safety": 55,
+      "mic_skill": 54,
+      "experience": 70
+    },
+    "style_vector": {
+      "brawler": 0.7,
+      "technical": 0.1,
+      "high_flyer": 0.0,
+      "power": 0.2,
+      "strong_style": 0.0,
+      "lucha": 0.0
+    },
+    "pop": 55,
+    "morale": 65,
+    "momentum": -5,
+    "conditioning": 76,
+    "traits": [
+      "stiff",
+      "old_school"
+    ],
+    "chemistry_tags": [
+      "brawler",
+      "grudge"
+    ],
+    "injury_status": {
+      "status": "healthy",
+      "days_remaining": 0
+    },
+    "fatigue": 22,
+    "region_pop_mod": {
+      "Northeast": 2
+    }
+  },
+  {
+    "id": "nova",
+    "name": "Nova Nyx",
+    "alignment": "face",
+    "attributes": {
+      "workrate": 79,
+      "psychology": 73,
+      "charisma": 82,
+      "star_power": 80,
+      "selling": 77,
+      "stiffness": 30,
+      "safety": 85,
+      "mic_skill": 88,
+      "experience": 66
+    },
+    "style_vector": {
+      "brawler": 0.1,
+      "technical": 0.3,
+      "high_flyer": 0.4,
+      "power": 0.1,
+      "strong_style": 0.0,
+      "lucha": 0.1
+    },
+    "pop": 72,
+    "morale": 82,
+    "momentum": 18,
+    "conditioning": 88,
+    "traits": [
+      "crowd_favorite",
+      "leader"
+    ],
+    "chemistry_tags": [
+      "high_flyer",
+      "underdog"
+    ],
+    "injury_status": {
+      "status": "healthy",
+      "days_remaining": 0
+    },
+    "fatigue": 10,
+    "region_pop_mod": {
+      "Northeast": 4
+    }
+  },
+  {
+    "id": "midas",
+    "name": "Magnus Midas",
+    "alignment": "heel",
+    "attributes": {
+      "workrate": 68,
+      "psychology": 81,
+      "charisma": 90,
+      "star_power": 86,
+      "selling": 62,
+      "stiffness": 40,
+      "safety": 78,
+      "mic_skill": 92,
+      "experience": 82
+    },
+    "style_vector": {
+      "brawler": 0.2,
+      "technical": 0.5,
+      "high_flyer": 0.0,
+      "power": 0.3,
+      "strong_style": 0.0,
+      "lucha": 0.0
+    },
+    "pop": 80,
+    "morale": 74,
+    "momentum": 25,
+    "conditioning": 70,
+    "traits": [
+      "political",
+      "prima_donna"
+    ],
+    "chemistry_tags": [
+      "talker",
+      "schemer"
+    ],
+    "injury_status": {
+      "status": "healthy",
+      "days_remaining": 0
+    },
+    "fatigue": 12,
+    "region_pop_mod": {
+      "Northeast": 5
+    }
+  },
+  {
+    "id": "rookie",
+    "name": "Rookie Ray",
+    "alignment": "face",
+    "attributes": {
+      "workrate": 62,
+      "psychology": 55,
+      "charisma": 60,
+      "star_power": 48,
+      "selling": 58,
+      "stiffness": 25,
+      "safety": 82,
+      "mic_skill": 52,
+      "experience": 20
+    },
+    "style_vector": {
+      "brawler": 0.1,
+      "technical": 0.4,
+      "high_flyer": 0.3,
+      "power": 0.2,
+      "strong_style": 0.0,
+      "lucha": 0.0
+    },
+    "pop": 40,
+    "morale": 75,
+    "momentum": 5,
+    "conditioning": 72,
+    "traits": [
+      "prospect",
+      "humble"
+    ],
+    "chemistry_tags": [
+      "rookie",
+      "underdog"
+    ],
+    "injury_status": {
+      "status": "healthy",
+      "days_remaining": 0
+    },
+    "fatigue": 8,
+    "region_pop_mod": {
+      "Northeast": 1
+    }
+  }
+]

@@ -1,0 +1,207 @@
+{
+  "$id": "schema/wrestler.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Wrestler",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "alignment",
+    "attributes",
+    "style_vector",
+    "pop",
+    "morale",
+    "momentum",
+    "conditioning",
+    "traits",
+    "chemistry_tags",
+    "injury_status",
+    "fatigue",
+    "region_pop_mod"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "alignment": {
+      "enum": [
+        "face",
+        "heel",
+        "tweener"
+      ]
+    },
+    "attributes": {
+      "type": "object",
+      "required": [
+        "workrate",
+        "psychology",
+        "charisma",
+        "star_power",
+        "selling",
+        "stiffness",
+        "safety",
+        "mic_skill",
+        "experience"
+      ],
+      "properties": {
+        "workrate": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "psychology": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "charisma": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "star_power": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "selling": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "stiffness": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "safety": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "mic_skill": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "experience": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        }
+      }
+    },
+    "style_vector": {
+      "type": "object",
+      "required": [
+        "brawler",
+        "technical",
+        "high_flyer",
+        "power",
+        "strong_style",
+        "lucha"
+      ],
+      "properties": {
+        "brawler": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "technical": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "high_flyer": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "power": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "strong_style": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "lucha": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        }
+      }
+    },
+    "pop": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "morale": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "momentum": {
+      "type": "number",
+      "minimum": -50,
+      "maximum": 50
+    },
+    "conditioning": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "traits": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "chemistry_tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "injury_status": {
+      "type": "object",
+      "required": [
+        "status",
+        "days_remaining"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "healthy",
+            "nick",
+            "minor",
+            "moderate",
+            "major",
+            "career_threatening"
+          ]
+        },
+        "days_remaining": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "fatigue": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "region_pop_mod": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "number"
+      }
+    }
+  }
+}

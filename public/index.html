@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wrestling Booker — Web Prototype</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Wrestling Booker — Web Prototype</h1>
+    <p>Simulate your card, then generate an AI recap. Save & load with MongoDB.</p>
+  </header>
+
+  <main>
+    <section class="controls">
+      <button id="runDemo">Run Demo Card</button>
+      <button id="openEditor">Open JSON Editor</button>
+      <button id="saveCard">Save Card</button>
+      <input id="loadId" placeholder="Load by id or name">
+      <button id="loadCard">Load</button>
+    </section>
+
+    <section id="editor" class="panel hidden">
+      <h2>JSON Editor</h2>
+      <textarea id="jsonInput" spellcheck="false" rows="16">{}</textarea>
+      <div class="row">
+        <button id="simulateCustom">Simulate JSON</button>
+        <button id="closeEditor">Close Editor</button>
+      </div>
+    </section>
+
+    <section id="results" class="panel hidden">
+      <h2>Results</h2>
+      <div id="summary"></div>
+      <div id="segments"></div>
+      <div class="row">
+        <button id="makeRecap">Generate AI Recap</button>
+      </div>
+      <pre id="recap" class="panel hidden"></pre>
+    </section>
+  </main>
+
+  <footer><small>v0.2</small></footer>
+  <script src="/main.js"></script>
+</body>
+</html>
