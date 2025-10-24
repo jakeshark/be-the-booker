@@ -1,31 +1,11 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "api/*.js",
-      "use": "@vercel/node"
-    }
-  ],
+  "builds": [{ "src":"api/*.js", "use":"@vercel/node" }],
   "routes": [
-    {
-      "src": "/api/simulate",
-      "dest": "/api/simulate.js"
-    },
-    {
-      "src": "/api/recap",
-      "dest": "/api/recap.js"
-    },
-    {
-      "src": "/api/save-card",
-      "dest": "/api/save-card.js"
-    },
-    {
-      "src": "/api/load-card",
-      "dest": "/api/load-card.js"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/public/index.html"
-    }
+    { "src":"/api/simulate", "dest":"/api/simulate.js" },
+    { "src":"/api/recap", "dest":"/api/recap.js" },
+    { "src":"/api/save-card", "dest":"/api/save-card.js" },
+    { "src":"/api/load-card", "dest":"/api/load-card.js" },
+    { "src":"/(.*)", "dest":"/public/index.html" }
   ]
 }
