@@ -59,9 +59,7 @@
     "title_match": {
       "type": "boolean"
     },
-    "feud_id": {
-      "type": "string"
-    },
+   "feud_id": { "type": ["string", "null"] }
     "interference": {
       "enum": [
         "none",
