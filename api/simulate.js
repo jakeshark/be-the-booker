@@ -1,7 +1,8 @@
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
-import Ajv from "ajv";
+import Ajv from "ajv/dist/2020.js";
+
 
 // === helpers ===============================================================
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -118,7 +119,7 @@ export default async function handler(req, res){
     const segments = body.segments || safeReadJSON(DATA("card_segments.json")) || FALLBACK.segments;
 
     // 2) Validate with AJV (if schemas exist)
-    const ajv = new Ajv({ allErrors:true, strict:false });
+    const ajv = new Ajv({ allErrors: true, strict: false });
     const wS = safeReadJSON(SCHEMAS("wrestler.json"));
     const fS = safeReadJSON(SCHEMAS("feud.json"));
     const sS = safeReadJSON(SCHEMAS("segment.json"));
