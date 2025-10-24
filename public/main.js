@@ -54,7 +54,13 @@ document.getElementById('makeRecap').addEventListener('click', async () => {
     if(!lastSimulation) return alert('Run a simulation first.');
     const { recap } = await api('/api/recap','POST',{ simulation: lastSimulation });
     const el = document.getElementById('recap'); el.textContent = recap; el.classList.remove('hidden');
-  }catch(e){ alert(e.message + '\n(Set OPENAI_API_KEY in Vercel env to use recap.)'); }
+  }catch(e){
+  alert(
+    e.message.includes('429')
+      ? 'Your OpenAI account has hit its usage limit. Check billing at platform.openai.com.'
+      : e.message + '\n(Set OPENAI_API_KEY in Vercel env to use recap.)'
+  );
+}
 });
 
 document.getElementById('saveCard').addEventListener('click', async () => {
