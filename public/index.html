@@ -3,27 +3,126 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Wrestling Booker — Web Prototype</title>
+  <title>Be The Booker — Prototype</title>
   <link rel="stylesheet" href="/styles.css">
+  <style>
+    .grid { display:grid; grid-template-columns: 1fr 1fr; gap:12px; }
+    .grid-3 { display:grid; grid-template-columns: repeat(3, 1fr); gap:8px; }
+    .row { display:flex; gap:8px; align-items: center; flex-wrap: wrap; }
+    .pill { display:inline-block; padding:2px 8px; border:1px solid #ccc; border-radius:999px; margin-right:6px; }
+    select, input[type="number"], input[type="text"] { padding:8px; border:1px solid #ccc; border-radius:8px; width:100%; }
+    .seg { border:1px solid #e5e5e5; border-radius:10px; padding:12px; margin:8px 0; background:#fff }
+    .seg h4 { margin:0 0 8px 0 }
+    .muted { color:#666; font-size:12px }
+    .danger { color:#a00 }
+    .good { color:#096 }
+    .sticky { position: sticky; top: 0; background: #fafafa; padding: 8px 0; }
+  </style>
 </head>
 <body>
   <header>
-    <h1>Wrestling Booker — Web Prototype</h1>
-    <p>Simulate your card, then generate an AI recap. Save & load with MongoDB.</p>
+    <h1>Be The Booker — Prototype</h1>
+    <p>Build a card visually, simulate, and generate AI recaps.</p>
   </header>
 
   <main>
-    <section class="controls">
-      <button id="runDemo">Run Demo Card</button>
-      <button id="openEditor">Open JSON Editor</button>
-      <button id="saveCard">Save Card</button>
-      <input id="loadId" placeholder="Load by id or name">
-      <button id="loadCard">Load</button>
+    <section class="panel">
+      <div class="sticky row">
+        <button id="runDemo">Run Demo Card</button>
+        <button id="openEditor">Open JSON Editor</button>
+        <button id="btnSimulate">Simulate This Card</button>
+        <button id="makeRecap">Generate AI Recap</button>
+        <span id="status" class="muted"></span>
+      </div>
+
+      <h2>Card Builder</h2>
+      <div class="grid">
+        <div>
+          <label>Segment Type</label>
+          <select id="segType">
+            <option value="match">Match</option>
+            <option value="promo">Promo</option>
+            <option value="angle">Angle</option>
+          </select>
+        </div>
+        <div>
+          <label>Intent</label>
+          <select id="segIntent">
+            <option value="advance_feud">Advance Feud</option>
+            <option value="elevate">Elevate</option>
+            <option value="cool_down">Cool Down</option>
+            <option value="debut">Debut</option>
+            <option value="crowd_work">Crowd Work</option>
+            <option value="blowoff">Blowoff</option>
+          </select>
+        </div>
+        <div>
+          <label>Participants (Ctrl/Cmd+Click for multi)</label>
+          <select id="segParticipants" multiple size="6"></select>
+          <div class="muted">Tip: for a match, select 2 (or 4 for tag, etc.).</div>
+        </div>
+        <div class="grid-3">
+          <div>
+            <label>Duration (min)</label>
+            <input id="segDuration" type="number" min="1" max="60" value="8">
+          </div>
+          <div>
+            <label>Stipulation</label>
+            <input id="segStip" type="text" placeholder="standard, cage, ladder...">
+          </div>
+          <div>
+            <label>Risk</label>
+            <select id="segRisk">
+              <option value="low">low</option>
+              <option value="med">med</option>
+              <option value="high">high</option>
+            </select>
+          </div>
+        </div>
+        <div>
+          <label>Feud (optional)</label>
+          <select id="segFeud">
+            <option value="">— none —</option>
+          </select>
+        </div>
+        <div class="grid-3">
+          <div>
+            <label>Title Match</label>
+            <select id="segTitle">
+              <option value="false">false</option>
+              <option value="true">true</option>
+            </select>
+          </div>
+          <div>
+            <label>Interference</label>
+            <select id="segInterf">
+              <option value="none">none</option>
+              <option value="possible">possible</option>
+              <option value="planned">planned</option>
+            </select>
+          </div>
+          <div>
+            <label>Placement</label>
+            <input id="segPlacement" type="number" min="0" value="0">
+          </div>
+        </div>
+      </div>
+
+      <div class="row" style="margin-top:8px;">
+        <button id="addSegment">Add Segment</button>
+        <span class="muted">Segments you add appear below. Drag order by editing “Placement”.</span>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Current Card</h2>
+      <div id="cardList"></div>
+      <div class="muted">Pro tip: You can still paste/edit raw JSON in the editor and simulate that instead.</div>
     </section>
 
     <section id="editor" class="panel hidden">
       <h2>JSON Editor</h2>
-      <textarea id="jsonInput" spellcheck="false" rows="16">{}</textarea>
+      <textarea id="jsonInput" spellcheck="false" rows="14">{}</textarea>
       <div class="row">
         <button id="simulateCustom">Simulate JSON</button>
         <button id="closeEditor">Close Editor</button>
@@ -34,14 +133,11 @@
       <h2>Results</h2>
       <div id="summary"></div>
       <div id="segments"></div>
-      <div class="row">
-        <button id="makeRecap">Generate AI Recap</button>
-      </div>
       <pre id="recap" class="panel hidden"></pre>
     </section>
   </main>
 
-  <footer><small>v0.2</small></footer>
+  <footer><small>v0.3 — Card Builder</small></footer>
   <script src="/main.js"></script>
 </body>
 </html>
