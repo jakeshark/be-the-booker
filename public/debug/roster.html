@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Be The Booker — Roster Debug</title>
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 20px; line-height: 1.5; }
+    h1,h2 { margin: 0.2em 0 0.4em; }
+    .counts li, .list li { margin: 2px 0; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+    .card { border: 1px solid #ddd; border-radius: 8px; padding: 12px; }
+    .muted { color: #666; font-size: 0.9em; }
+    .pill { display: inline-block; padding: 2px 8px; border: 1px solid #ddd; border-radius: 999px; margin-left: 6px; font-size: 0.85em; }
+    input[type="search"] { padding: 8px 10px; width: 100%; max-width: 420px; border-radius: 8px; border: 1px solid #ccc; }
+  </style>
+</head>
+<body>
+  <h1>Be The Booker — Seed Debug</h1>
+
+  <div id="status">Loading…</div>
+
+  <section id="counts" style="display:none">
+    <h2>Counts</h2>
+    <ul class="counts">
+      <li>Wrestlers: <span id="count-wrestlers">0</span></li>
+      <li>Teams: <span id="count-teams">0</span></li>
+      <li>Stables: <span id="count-stables">0</span></li>
+      <li>Titles: <span id="count-belts">0</span></li>
+      <li>Events: <span id="count-events">0</span></li>
+      <li>TV Shows: <span id="count-tv">0</span></li>
+      <li>Networks: <span id="count-networks">0</span></li>
+      <li>Staff: <span id="count-staff">0</span></li>
+      <li>Sponsors: <span id="count-sponsors">0</span></li>
+      <li>Promos: <span id="count-promos">0</span></li>
+    </ul>
+  </section>
+
+  <section id="search" style="display:none">
+    <h2>Wrestlers</h2>
+    <input id="q" type="search" placeholder="Search wrestlers…" />
+    <div id="wrestlers" class="grid" style="margin-top:12px"></div>
+  </section>
+
+  <section id="teams" style="display:none">
+    <h2>Teams</h2>
+    <ul id="teams-list" class="list"></ul>
+  </section>
+
+  <section id="stables" style="display:none">
+    <h2>Stables</h2>
+    <ul id="stables-list" class="list"></ul>
+  </section>
+
+  <script src="./roster.js" type="module"></script>
+</body>
+</html>
