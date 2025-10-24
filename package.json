@@ -5,12 +5,14 @@
   "type": "module",
   "scripts": {
     "dev": "vercel dev",
-    "start": "vercel dev",
+    "start": "vercel dev"
   },
   "dependencies": {
     "ajv": "^8.17.1",
     "mongodb": "^6.9.0",
     "openai": "^4.56.0"
+  },
+  "engines": {
+    "node": "20.x"
   }
-  "engines": { "node": "20.x" }
 }
