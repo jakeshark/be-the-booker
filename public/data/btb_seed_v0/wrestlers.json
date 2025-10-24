@@ -1,0 +1,2690 @@
+[
+  {
+    "id": "4",
+    "ring_name": "4\u0001",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "low-ki-low-ki",
+    "ring_name": "\u0001Low Ki                   Low Ki",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "matt-cross-cross",
+    "ring_name": "\u0001Matt Cross               Cross",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "minoru-fujita-fujita",
+    "ring_name": "\u0003Minoru Fujita            Fujita",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed",
+    "ring_name": "\u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed-2",
+    "ring_name": "\u0001",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "jetta-jetta",
+    "ring_name": "Jetta                    Jetta",
+    "extras": {
+      "col_2": "\u0006",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "the-warlord-warlord",
+    "ring_name": "The Warlord              Warlord   \u0003",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "alex-shelley-shelley",
+    "ring_name": "Alex Shelley             Shelley   \u0005",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "the-beast-king-ftm-ftm",
+    "ring_name": "The Beast King FTM       FTM",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "icarus-icarus",
+    "ring_name": "Icarus                   Icarus",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "hub-hub",
+    "ring_name": "HUB                      HUB       \b",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "kudo-kudo",
+    "ring_name": "KUDO                     KUDO",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "dan-barry-dan-barry",
+    "ring_name": "Dan Barry                Dan Barry \u0002",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "mike-mondo-mike",
+    "ring_name": "Mike Mondo               Mike      \u0003",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "john-mcchesney-fabulous",
+    "ring_name": "John McChesney           Fabulous  \u0006",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "kasanova-kato-kato",
+    "ring_name": "Kasanova Kato            Kato      \u0003",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "natalya-natalya",
+    "ring_name": "Natalya                  Natalya",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "melina-melina",
+    "ring_name": "Melina                   Melina",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "d-ray-3000-d-ray",
+    "ring_name": "D-Ray 3000               D-Ray     \b",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "jigsaw-jigsaw",
+    "ring_name": "Jigsaw                   Jigsaw",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "frank-frank",
+    "ring_name": "Frank                    Frank     \u0007",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "clutch-rockwell-rockwell",
+    "ring_name": "Clutch Rockwell          Rockwell  \u0002",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "kevin-matthews-matthews",
+    "ring_name": "Kevin Matthews           Matthews  \u0002",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "zokre-zokre",
+    "ring_name": "Zokre                    Zokre     \u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "sumie-sakai-sakai",
+    "ring_name": "Sumie Sakai              Sakai",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "hirooki-goto-goto",
+    "ring_name": "Hirooki Goto             Goto      \u0006",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "fred-rosser-rosser",
+    "ring_name": "Fred Rosser              Rosser",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "thomas-santell-santell",
+    "ring_name": "Thomas Santell           Santell",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "jack-evans-evans",
+    "ring_name": "Jack Evans               Evans     \u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "ahmed-chaer-chaer",
+    "ring_name": "Ahmed Chaer              Chaer     \b",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "chris-raaber-raaber",
+    "ring_name": "Chris Raaber             Raaber",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "crazy-sexy-mike-sexy-mike",
+    "ring_name": "Crazy Sexy Mike          Sexy Mike \u0006",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "claudio-castagnoli-claudio",
+    "ring_name": "Claudio Castagnoli       Claudio",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "taiji-ishimori-ishimori",
+    "ring_name": "Taiji Ishimori           Ishimori  \u0002",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "ken45-ken45",
+    "ring_name": "Ken45                    Ken45     \u0005",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "happy-man-happy-man",
+    "ring_name": "HAPPY MAN                HAPPY MAN",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "kagetora-kagetora",
+    "ring_name": "Kagetora                 Kagetora  \u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "sugi-sugi",
+    "ring_name": "SUGI                     SUGI",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "naoki-tanizaki-tanizaki",
+    "ring_name": "Naoki Tanizaki           Tanizaki",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "taro-nohashi-nohashi",
+    "ring_name": "Taro Nohashi             Nohashi   \b",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "kevin-owens-owens",
+    "ring_name": "Kevin Owens              Owens     \u0005",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "tracy-taylor-tracy",
+    "ring_name": "Tracy Taylor             Tracy",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "bobby-lashley-lashley",
+    "ring_name": "Bobby Lashley            Lashley   \u0007",
+    "extras": {
+      "col_2": "\u0005",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "amber-o-neal-o-neal",
+    "ring_name": "Amber O'Neal             O'Neal",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "madison-eagles-eagles",
+    "ring_name": "Madison Eagles           Eagles",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "lady-k-lady-k",
+    "ring_name": "Lady K                   Lady K",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "beth-phoenix-beth",
+    "ring_name": "Beth Phoenix             Beth",
+    "extras": {
+      "col_2": "\u000eBishop                   Bishop",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "orange-cassidy-cassidy",
+    "ring_name": "\u0012Orange Cassidy           Cassidy   \u0005",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "bobby-shields-shields",
+    "ring_name": "\u0013Bobby Shields            Shields",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "nigel-mcguiness-mcguiness",
+    "ring_name": "\u0015Nigel McGuiness          McGuiness \u0001",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "zumbi-zumbi",
+    "ring_name": "\u0018Zumbi                    Zumbi",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "juice-robinson-juice",
+    "ring_name": "\u0018Juice Robinson           Juice     \u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "chuck-lennox-lennox",
+    "ring_name": "\u0019Chuck Lennox             Lennox",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "u-t-u-t",
+    "ring_name": "\u001aU-T                      U-T",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed-3",
+    "ring_name": "\u0005",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed-4",
+    "ring_name": "\u0005",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed-3",
+    "ring_name": "\u0005",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed-4",
+    "ring_name": "\u0005",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "andy-simmonz-simmonz",
+    "ring_name": "Andy Simmonz             Simmonz   \u0005",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "dean-allmark-allmark",
+    "ring_name": "Dean Allmark             Allmark   \b",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "greg-burridge-burridge",
+    "ring_name": "Greg Burridge            Burridge",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "hi69-hi69",
+    "ring_name": "Hi69                     Hi69",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "hiroshi-yamato-yamato",
+    "ring_name": "Hiroshi Yamato           Yamato",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "isami-kodaka-kodaka",
+    "ring_name": "Isami Kodaka             Kodaka",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "james-mason-mason",
+    "ring_name": "James Mason              Mason     \u0007",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "kai-kai",
+    "ring_name": "KAI                      KAI       \u0005",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "michael-dante-dante",
+    "ring_name": "Michael Dante            Dante     \b",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "mikey-whiplash-whiplash",
+    "ring_name": "Mikey Whiplash           Whiplash  \u0007",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "rj-singh-singh",
+    "ring_name": "RJ Singh                 Singh     \u0005",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "robbie-dynamite-dynamite",
+    "ring_name": "Robbie Dynamite          Dynamite  \u0007",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "sha-samuels-samuels",
+    "ring_name": "Sha Samuels              Samuels   \u0002",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "tadasuke-tadasuke",
+    "ring_name": "Tadasuke                 Tadasuke  \u0001",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "terry-frazier-frazier",
+    "ring_name": "Terry Frazier            Frazier   \u0007",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "yo-hey-yo-hey",
+    "ring_name": "YO-HEY                   YO-HEY    \u0002",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "piper-niven-niven",
+    "ring_name": "Piper Niven              Niven",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "raquel-rodriguez-raquel",
+    "ring_name": "Raquel Rodriguez         Raquel",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "shayna-baszler-baszler",
+    "ring_name": "Shayna Baszler           Baszler",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "tay-melo-tay",
+    "ring_name": "Tay Melo                 Tay",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "lei-ying-lee-lei-ying",
+    "ring_name": "Lei Ying Lee             Lei Ying",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "big-mami-mami",
+    "ring_name": "Big Mami                 Mami",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "karrion-kross-kross",
+    "ring_name": "Karrion Kross            Kross     \u0007",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "mj-jenkins-jenkins",
+    "ring_name": "MJ Jenkins               Jenkins",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "brandi-lauren-lauren",
+    "ring_name": "Brandi Lauren            Lauren",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "eclipse-jr-eclipse",
+    "ring_name": "Eclipse Jr.              Eclipse",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "multibronce-bronce",
+    "ring_name": "MultiBronce              Bronce",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "sammy-guevara-guevara",
+    "ring_name": "Sammy Guevara            Guevara   \u0007",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "austin-theory-theory",
+    "ring_name": "Austin Theory            Theory    \b",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "j-d-drake-drake",
+    "ring_name": "J.D. Drake               Drake     \u0001",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "darby-allin-allin",
+    "ring_name": "Darby Allin              Allin     \u0001",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "jason-kincaid-kincaid",
+    "ring_name": "Jason Kincaid            Kincaid   \u0005",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "jimmy-jacobs-jacobs",
+    "ring_name": "Jimmy Jacobs             Jacobs    \u0002",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "kavita-devi-devi",
+    "ring_name": "Kavita Devi              Devi",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "ace-romero-acey-baby",
+    "ring_name": "Ace Romero               Acey Baby \u0005",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "maxwell-jacob-friedman-mjf",
+    "ring_name": "Maxwell Jacob Friedman   MJF       \u0003",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "chris-brookes-brookes",
+    "ring_name": "Chris Brookes            Brookes   \b",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "kid-lykos-lykos",
+    "ring_name": "Kid Lykos                Lykos     \u0003",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "audaz-audaz",
+    "ring_name": "Audaz                    Audaz",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "cc-boost-boost",
+    "ring_name": "CC Boost                 Boost",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "cezar-bononi-bononi",
+    "ring_name": "Cezar Bononi             Bononi    \u0006",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "dave-mccall-dmc",
+    "ring_name": "Dave McCall              DMC       \u0001",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "gloria-glitter-glitter",
+    "ring_name": "Gloria Glitter           Glitter",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "dominic-garrini-garrini",
+    "ring_name": "Dominic Garrini          Garrini   \u0003",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "nate-carter-carter",
+    "ring_name": "Nate Carter              Carter",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "odinson-odinson",
+    "ring_name": "Odinson                  Odinson",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "parrow-parrow",
+    "ring_name": "Parrow                   Parrow    \u0002",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "damian-priest-priest",
+    "ring_name": "Damian Priest            Priest",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "rain-rain",
+    "ring_name": "Rain                     Rain",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "razerwyng-razerwyng",
+    "ring_name": "Razerwyng                Razerwyng",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "ronda-rousey-rousey",
+    "ring_name": "Ronda Rousey             Rousey",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "sam-adonis-adonis",
+    "ring_name": "Sam Adonis               Adonis    \b",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "samantha-heights-sweet",
+    "ring_name": "Samantha Heights         Sweet",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "shotzi-blackheart-shotzi",
+    "ring_name": "Shotzi Blackheart        Shotzi",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "the-whisper-whisper",
+    "ring_name": "The Whisper              Whisper   \u0007",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "tom-lawlor-flithy",
+    "ring_name": "Tom Lawlor               Flithy    \u0005",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "villano-iii-jr-villano-jr",
+    "ring_name": "Villano III Jr.          Villano Jr\u0007",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "zoe-lucas-lucas",
+    "ring_name": "Zoe Lucas                Lucas",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "big-swole-swole",
+    "ring_name": "Big Swole                Swole",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "lyra-valkyria-valkyria",
+    "ring_name": "Lyra Valkyria            Valkyria",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "aria-blake-aria",
+    "ring_name": "Aria Blake               Aria",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "brody-king-king",
+    "ring_name": "Brody King               King      \u0003",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "candy-cartwright-candy",
+    "ring_name": "Candy Cartwright         Candy",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "dynamite-didi-didi",
+    "ring_name": "Dynamite DiDi            DiDi",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "francisco-ciatso-ciatso",
+    "ring_name": "Francisco Ciatso         Ciatso    \u0005",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "holidead-holidead",
+    "ring_name": "Holidead                 Holidead",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "wheeler-yuta-yuta",
+    "ring_name": "Wheeler Yuta             Yuta",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "natalia-markova-markova",
+    "ring_name": "Natalia Markova          Markova",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "rhett-giddins-giddins",
+    "ring_name": "Rhett Giddins            Giddins",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "stormie-lee-stormie",
+    "ring_name": "Stormie Lee              Stormie",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "trigga-the-og-trigga",
+    "ring_name": "Trigga The OG            Trigga",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "stockade-stockade",
+    "ring_name": "Stockade                 Stockade  \u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "dante-caballero-caballero",
+    "ring_name": "Dante Caballero          Caballero",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "sahara-se7en-se7en",
+    "ring_name": "Sahara Se7en             Se7en",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "barrington-hughes-hughes",
+    "ring_name": "Barrington Hughes        Hughes    \u0005",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "lsg-lsg",
+    "ring_name": "\u000eLSG                      LSG       \u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed-3",
+    "ring_name": "\u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed",
+    "ring_name": "\u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed-3",
+    "ring_name": "\u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed",
+    "ring_name": "\u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed-3",
+    "ring_name": "\u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed",
+    "ring_name": "\u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed-3",
+    "ring_name": "\u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed",
+    "ring_name": "\u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed-3",
+    "ring_name": "\u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed",
+    "ring_name": "\u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed-3",
+    "ring_name": "\u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed",
+    "ring_name": "\u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed-3",
+    "ring_name": "\u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed",
+    "ring_name": "\u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed-3",
+    "ring_name": "\u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "unnamed",
+    "ring_name": "\u0004",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "turbo-turbo",
+    "ring_name": "\u0010Turbo                    Turbo",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "austin-gunn-gunn",
+    "ring_name": "\u0017Austin Gunn              Gunn      \b",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "bea-priestley-bea",
+    "ring_name": "\u001bBea Priestley            Bea",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "dragon-dia-dia",
+    "ring_name": "\u001bDragon Dia               Dia",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "ciclon-black-ciclon",
+    "ring_name": "Ciclon Black             Ciclon",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "deranged-deranged",
+    "ring_name": "Deranged                 Deranged  \u0007",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "mari-mari",
+    "ring_name": "\u0012Mari                     Mari",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "hideyoshi-kamitani-kamitani",
+    "ring_name": "Hideyoshi Kamitani       Kamitani  \u0001",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "katsushi-takemura-takemura",
+    "ring_name": "Katsushi Takemura        Takemura  \b",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "cyclope-cyclope",
+    "ring_name": "Cyclope                  Cyclope",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "d-luxe-d-luxe",
+    "ring_name": "D'Luxe                   D'Luxe    \u0002",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "deonte-deonte",
+    "ring_name": "Deonte                   Deonte",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "hijo-del-brazo-de-platinoplatino",
+    "ring_name": "Hijo Del Brazo de PlatinoPlatino",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "atomo-atomo",
+    "ring_name": "Atomo                    Atomo     \u0002",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "arkalis-arkalis",
+    "ring_name": "Arkalis                  Arkalis",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "cian-noonan-noonan",
+    "ring_name": "!Cian Noonan              Noonan",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  },
+  {
+    "id": "safire-reed-safire",
+    "ring_name": "!Safire Reed              Safire",
+    "extras": {
+      "col_2": "",
+      "col_3": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": "",
+      "col_8": "",
+      "col_9": "",
+      "col_10": "",
+      "col_11": ""
+    }
+  }
+]
