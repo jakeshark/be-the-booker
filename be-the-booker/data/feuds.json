@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ace_vs_brawler",
+    "participants": [
+      "ace",
+      "brawler"
+    ],
+    "heat": 58,
+    "stakes": 1,
+    "arc_phase": "escalation",
+    "consistency": 4,
+    "chemistry": 65,
+    "need_resolution": true
+  },
+  {
+    "id": "nova_vs_midas",
+    "participants": [
+      "nova",
+      "midas"
+    ],
+    "heat": 62,
+    "stakes": 2,
+    "arc_phase": "crisis",
+    "consistency": 5,
+    "chemistry": 70,
+    "need_resolution": false
+  }
+]
